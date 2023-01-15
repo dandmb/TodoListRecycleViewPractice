@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PrepaFour</string>
+    <string name="delete">Delete</string>
+    <style name="TextStyle" parent="@android:style/TextAppearance">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#aacbb4</item>
+    </style>
+</resources>
